@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33059'
     url: http://www.gutenberg.org/2009/agents/33059
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27989#Taavetti-Livingstone-h-nen-el-m-ns--ja-toimensa
 gutenberg_issued: '2009-02-04'
 gutenberg_type: Text
 identifiers:
