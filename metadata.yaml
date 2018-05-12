@@ -1,0 +1,27 @@
+_repo: Taavetti-Livingstone-h-nen-el-m-ns--ja-toimensa_27989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lagus, F. H. B.
+    alias: Lagus, Frithiof Henrik Bernhard
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '33059'
+    url: http://www.gutenberg.org/2009/agents/33059
+description: ''
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27989'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Livingstone, David, 1813-1873'
+- !lcc 'DT'
+title: Taavetti Livingstone, hänen elämänsä ja toimensa
+url: http://www.gutenberg.org/ebooks/27989
